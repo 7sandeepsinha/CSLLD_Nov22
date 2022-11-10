@@ -11,7 +11,3 @@ I
 ,src/helloWorldPrinter/HelloWorldPrinter.java,b/2/b23dda9a304d33e5a4f0e8823c287dfbcee94aee
 P
  src/executors/NumberPrinter.java,3/7/378c2c61e605c1e7bfe16a90460d3a11f433c6c3
-I
-src/mergeSort/Client.java,4/9/4956a0c5bf4926d6c61d4b34ebcc920015ce6832
-I
-src/mergeSort/Sorter.java,d/5/d5b7f2b57719ef0acbff944f72cefa380ee88580
