@@ -19,8 +19,5 @@ public class Client {
         t2.join();
 
         System.out.println(c.value);
-        System.out.println(c1.value);
-        System.out.println(car.value);
-
     }
 }
